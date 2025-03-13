@@ -73,6 +73,7 @@ export default function BellIcon({ isAnimating, onClick }: BellIconProps) {
     <div className="bell-container" onClick={handleClick}>
       <div className="bell-circle bell-circle-1"></div>
       <div className="bell-circle bell-circle-2"></div>
+      <div className="bell-circle bell-circle-3"></div>
 
       <motion.div
         className="bell-background"
