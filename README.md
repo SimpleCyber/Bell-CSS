@@ -2,7 +2,7 @@
 
 A simple web notification demonstration app with beautiful animations.
 
-![Bell-CSS Demo](https://raw.githubusercontent.com/SimpleCyber/Bell-CSS/image.png)
+![Bell-CSS Demo](image.png)
 
 ## Live Demo
 
